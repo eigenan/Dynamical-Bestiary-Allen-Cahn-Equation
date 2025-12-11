@@ -1,5 +1,5 @@
 # Dynamical-Bestiary-Allen-Cahn-Equation
-Python notebook for Allen-Cahn equation.
+Python notebook for the Allen-Cahn equation.
 
 ## 1. 1-dimensional Allen-Cahn equation with Neumann boundary condition using continuation method
 
